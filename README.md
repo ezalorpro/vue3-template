@@ -1,4 +1,4 @@
-# vue_tres
+# vue_template
 
 ## Project setup
 ```
